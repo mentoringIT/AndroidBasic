@@ -1,0 +1,2 @@
+F:\cursos\proyectosLimpios\XMLPullParser\app\build\intermediates\classes\debug
+F:\cursos\proyectosLimpios\XMLPullParser\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-2a34b5ead40a46819fb8f00647f2d3337f8fd0ae.jar
